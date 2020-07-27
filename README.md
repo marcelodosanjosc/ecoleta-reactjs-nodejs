@@ -9,9 +9,12 @@
 
 
 ### Mobile
-![enter image description here](https://i.imgur.com/HMbNSPZ.jpg)
-![enter image description here](https://i.imgur.com/XOKiefh.jpg)
-![enter image description here](https://i.imgur.com/VKwSbTd.jpg)
+ 
+ ![enter image description here](https://i.imgur.com/uF2eMpp.jpg)
+ 
+ ![enter image description here](https://i.imgur.com/c1ZY4CQ.jpg)
+  
+ ![enter image description here](https://i.imgur.com/45TI1vT.jpg) 
 
 ## Tecnologias
 
